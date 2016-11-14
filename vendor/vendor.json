@@ -157,6 +157,12 @@
 			"revisionTime": "2016-09-25T22:06:09Z"
 		},
 		{
+			"checksumSHA1": "3RvKLHhjzTlQhXM7p8tnnm6xXtw=",
+			"path": "github.com/urfave/negroni",
+			"revision": "e0e50f7dc431c043cb33f91b09c3419d48b7cff5",
+			"revisionTime": "2016-11-02T02:38:13Z"
+		},
+		{
 			"checksumSHA1": "EqoDap/Kb8XHgeYTvCB1EMSsqNQ=",
 			"path": "golang.org/x/net/context",
 			"revision": "6c4ac8bdbf06a105c4baf3dcda28bd9b0fb15588",

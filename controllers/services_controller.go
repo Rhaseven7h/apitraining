@@ -44,4 +44,5 @@ func (ph ServicesHandler) Get(w http.ResponseWriter, r *http.Request) {
 		Info("error occurred with parameters")
 	w.WriteHeader(http.StatusOK)
 	fmt.Fprintf(w, fmt.Sprintf("The ID requested was: %d", id))
+	logrus.Info("Paso por aqui EN la accion")
 }
